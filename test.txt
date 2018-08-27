@@ -2,4 +2,4 @@ It just a test file.
 
 now add aFunc.
 
-this add is master Func.
+this add is master Func and bFunc.
